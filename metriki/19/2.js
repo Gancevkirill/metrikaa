@@ -1,0 +1,1 @@
+document.getElementById("elem").classList.remove("www");
